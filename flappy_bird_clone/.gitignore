@@ -1,1 +1,3 @@
-
+__pycache__/
+*.pyc
+config.py  # If it contains sensitive info
